@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tcdlib">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/tcdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
